@@ -1,6 +1,6 @@
-<h2> Hi, I'm Walter!</h2>
+<h2> Greetings, I'm Walter!</h2>
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=waltbo&show_icons=true&count_private=true">
-<p>As a software engineer in security and cloud products, I have hands-on experience building dynamically scalable, available, fault-tolerant, and reliable applications.</p>
+<p>I'm a software engineer with a focus on backend development. As a software engineer in security and cloud products, I have hands-on experience building dynamically scalable, available, fault-tolerant, and reliable applications.</p>
 </em></p>
 
 [![Linkedin: Walter Smith](https://img.shields.io/badge/-WalterSmith-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/walter-smith-1547a3131/)](https://www.linkedin.com/in/walter-smith-1547a3131/)
