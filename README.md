@@ -7,7 +7,8 @@
 [![GitHub waltbo](https://img.shields.io/github/followers/waltbo?label=follow&style=social)](https://github.com/Waltbo)
 
 
-
+<br />
+<br />
 
 
 ### A little more about me...  
